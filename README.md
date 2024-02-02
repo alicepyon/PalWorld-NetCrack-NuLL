@@ -1,3 +1,6 @@
+# Included release dynamic link library.
+- as the tag says. i included dll files for unintelligent and lazy peoples.
+ 
 # PalWorld Internal
 
 Simple internal built with various code snippets and SDK from UC.me
